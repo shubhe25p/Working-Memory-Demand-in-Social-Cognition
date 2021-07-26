@@ -35,7 +35,8 @@ A broad overview: Objectives of HCP
 - Several imaging methods (e.g., MRI, EEG) and modalities (e.g., R-fMRI, T-fMRI), behavioral data (i.e., “testing outside of the scanner”, and genetic data 
 360 brain parcels 
 
-**insert image here!!**
+![HCP description](images/dataset_description.jpeg)
+
 
 ### We employed two approaches for identifying brain regions:
 
