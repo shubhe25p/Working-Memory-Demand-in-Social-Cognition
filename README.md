@@ -35,7 +35,7 @@ A broad overview: Objectives of HCP
 - Several imaging methods (e.g., MRI, EEG) and modalities (e.g., R-fMRI, T-fMRI), behavioral data (i.e., “testing outside of the scanner”, and genetic data 
 360 brain parcels 
 
-![HCP description](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/dataset_description.jpeg)
+![HCP description](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/dataset_description.JPG)
 
 
 ### We employed two approaches for identifying brain regions:
