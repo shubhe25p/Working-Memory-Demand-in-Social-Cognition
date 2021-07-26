@@ -44,11 +44,11 @@ A broad overview: Objectives of HCP
 
 ### Results:
 
-![tTest result](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/result-1.JPG?raw=True)
+![tTest result](images/result-1.JPG)
 **From this we infer that mental tasks demand low working memory and random tasks has a high working memory demand.**
 
-![Correlation analysis 1](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/result-2-1.JPG?raw=True)
-![Correlation analysis 2](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/result-2-2.JPG?raw=True)
+![Correlation analysis 1](images/result-2-1.JPG)
+![Correlation analysis 2](images/result-2-2.JPG)
 **From this we infer that social cognition task(mental) has a low working demand while random data correspond to higher working memory.**
 
 
