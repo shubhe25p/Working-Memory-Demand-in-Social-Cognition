@@ -35,7 +35,7 @@ A broad overview: Objectives of HCP
 - Several imaging methods (e.g., MRI, EEG) and modalities (e.g., R-fMRI, T-fMRI), behavioral data (i.e., “testing outside of the scanner”, and genetic data 
 360 brain parcels 
 
-![HCP description](images/dataset_description.JPG)
+![HCP description](images/dataset_description.JPG){width=50%}
 
 ### We employed two approaches for identifying brain regions:
 
@@ -44,11 +44,13 @@ A broad overview: Objectives of HCP
 
 ### Results:
 
-![tTest result](images/result-1.JPG)
+![tTest result](images/result-1.JPG){ width=50% }
+
 **From this we infer that mental tasks demand low working memory and random tasks has a high working memory demand.**
 
 ![Correlation analysis 1](images/result-2-1.JPG)
 ![Correlation analysis 2](images/result-2-2.JPG)
+
 **From this we infer that social cognition task(mental) has a low working demand while random data correspond to higher working memory.**
 
 
