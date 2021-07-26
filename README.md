@@ -35,7 +35,7 @@ A broad overview: Objectives of HCP
 - Several imaging methods (e.g., MRI, EEG) and modalities (e.g., R-fMRI, T-fMRI), behavioral data (i.e., “testing outside of the scanner”, and genetic data 
 360 brain parcels 
 
-![HCP description](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/dataset_description.JPG)
+![HCP description](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/dataset_description.JPG?raw=True)
 
 
 ### We employed two approaches for identifying brain regions:
@@ -45,12 +45,12 @@ A broad overview: Objectives of HCP
 
 ### Results:
 
-![tTest result]()
-**From this we infer that mental tasks demand low working memory and random tasks has a high working memory demand.
+![tTest result](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/result-1.JPG?raw=True)
+**From this we infer that mental tasks demand low working memory and random tasks has a high working memory demand.**
 
-![Correlation analysis 1]()
-![Correlation analysis 2]()
-**From this we infer that social cognition task(mental) has a low working demand while random data correspond to higher working memory.
+![Correlation analysis 1](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/result-2-1.JPG?raw=True)
+![Correlation analysis 2](https://github.com/shubhe25p/Working-Memory-Demand-in-Social-Cognition/tree/master/images/result-2-2.JPG?raw=True)
+**From this we infer that social cognition task(mental) has a low working demand while random data correspond to higher working memory.**
 
 
 
